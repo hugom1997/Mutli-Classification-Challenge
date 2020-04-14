@@ -11,3 +11,5 @@ This project is aims to give a **starting kit** for a Challenge. We decided to s
 
 The goal of this project was **not** to give a perfect solution to our problem, but rather to propose an interesting challenge for students
 to work with.
+
+**Contributors** : Mallet Hugo, Gajendran Mithuran, Cochet Camille, Houzé de l'Aulnoit Arnaud, De Verdière Matthieu
